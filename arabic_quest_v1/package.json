@@ -1,0 +1,8 @@
+{
+  "name": "arabic-quest-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arabic Quest Arabic learning adventure website",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
